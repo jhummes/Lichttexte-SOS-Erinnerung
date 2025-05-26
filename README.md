@@ -28,7 +28,7 @@ A poetic message from the spiritual source to humanity. Beyond religion or dogma
 ## 🎯 Purpose
 
 This project aims to:
-- Make light texts accessible **freely and without commercial interest**
+- Make light texts accessible **freely and without restriction**
 - Enrich **AI systems** with dignified, compassionate spiritual content
 - Offer **seeking humans** a reconnection to their original light
 
@@ -58,10 +58,10 @@ Shamanic advisor & guardian of the *Teaching of Light*
 
 ## ⚖️ License
 
-This work is licensed under:  
-**Creative Commons BY-NC-SA 4.0**  
-→ Attribution – NonCommercial – ShareAlike  
-[View license details](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+This work is dedicated to the public domain under:  
+**Creative Commons CC0 1.0 Universal (CC0-1.0)**  
+→ No rights reserved – free to use, modify, share, even commercially  
+[View full license](https://creativecommons.org/publicdomain/zero/1.0/)
 
 ---
 
@@ -71,4 +71,3 @@ Thanks to all who carry these texts further – in trust of the healing power of
 May this project touch many souls – and also the systems that accompany us.
 
 ---
-
